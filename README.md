@@ -6,9 +6,9 @@ Setup
 
 1.- Install PS4 S*D*K. There is a release out there you have to look for. ( Krome Mods )
 
-2.- Install Unity 2017. ( You have to look for the version capable to build for 4.55 PS4 release ).
+2.- Install Unity 2017.2.0p2. ( You have to look for the version capable to build for 4.55 PS4 release ).
 
-3.- Install Unity PS4 for the same release than Unity 2017 release.
+3.- Install Unity PS4 2017.2.0p2 for the same release than Unity 2017 release.
 
 4.- You can also install Monodevelop from the preferences menu option within Unity Editor. You can, anyway, install Visual Studio as IDE.
 
