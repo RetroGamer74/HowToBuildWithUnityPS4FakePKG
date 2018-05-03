@@ -46,15 +46,19 @@ Building
 ![Build Folder](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura6.PNG "Build Folder")
 
 8.- Copy next 3 files from sce_sys folder.
+
 ![Build Folder](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura7.PNG "Build Folder")
 
 9.- Paste the 3 files copied into the upper project folder
+
 ![Build Folder](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura8.PNG "Build Folder")
 
 10.- We'll use those 3 files in the Publishing Settings of the Player Settings. So go back again to the Build Settings window. Press Player Settings button, and in the Inspector select the Publishing Settings. Now you have to use those 3 files in the options: Share parameter file to set shareparam.json, pronunciation.xml set to pronunciation.xml, and pronunciation.sig to pronunciation.sig. We have to to this because we're going to build a non development package, and to use that we have to set those 3 files.
+
 ![Publishing Settings](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura2.PNG "Publishing Settings")
 
 11.- Finally set Build Settings -> Build Type: PS4 Package and remove any check from the checkboxes.
+
 ![Build Settings](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura.PNG "Build Settings")
 
 12.- Now you can click Build, and you can do more builds without repeating all the steps shown here. You have to do this only once for the project. Remember you empty the folder Build before you try to compile again, because Unity requires build folder be empty if you are going to create a different Build Type, which is the case. We changed Build Type from PC Hosted to PS4 Package. After that you can build more times without clean folder while you create always PS4 Packages.
