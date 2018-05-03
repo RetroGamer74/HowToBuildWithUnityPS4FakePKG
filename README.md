@@ -53,7 +53,7 @@ Building
 
 ![Build Folder](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura8.PNG "Build Folder")
 
-10.- We'll use those 3 files in the Publishing Settings of the Player Settings. So go back again to the Build Settings window. Press Player Settings button, and in the Inspector select the Publishing Settings. Now you have to use those 3 files in the options: Share parameter file to set shareparam.json, pronunciation.xml set to pronunciation.xml, and pronunciation.sig to pronunciation.sig. We have to to this because we're going to build a non development package, and to use that we have to set those 3 files.
+10.- We'll use those 3 files in the Publishing Settings of the Player Settings. So go back again to the Build Settings window. Press Player Settings button, and in the Inspector select the Publishing Settings. Now you have to use those 3 files in the options: Share parameter file to set shareparam.json, pronunciation.xml set to pronunciation.xml, and pronunciation.sig to pronunciation.sig. We have to do this because we're going to build a non development package, and to use that we have to set those 3 files.
 
 ![Publishing Settings](https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG/blob/master/Captura2.PNG "Publishing Settings")
 
