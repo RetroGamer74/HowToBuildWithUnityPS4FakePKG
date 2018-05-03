@@ -16,7 +16,7 @@ Setup
 
 6.- Create a Unity account if you still don't have one.
 
-7.- Set the license. You can do this in first Unity startup, or in the Help menu, selection Manage License. Then, select Activate License, and set yours.
+7.- Set the license. You can do this in first Unity startup, or in the Help menu, by selecting Manage License. Then, select Activate License, and set yours.
 
 
 Building
