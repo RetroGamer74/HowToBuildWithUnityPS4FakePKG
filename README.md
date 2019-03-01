@@ -66,4 +66,5 @@ Building
 13.- Now you can click Build, and you can do more builds without repeating all the steps shown here. You have to do this only once for the project. Remember you empty the folder Build before you try to compile again, because Unity requires build folder be empty if you are going to create a different Build Type, which is the case. We changed Build Type from PC Hosted to PS4 Package. After that you can build more times without clean folder while you create always PS4 Packages.
 
 
-
+![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
+[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
